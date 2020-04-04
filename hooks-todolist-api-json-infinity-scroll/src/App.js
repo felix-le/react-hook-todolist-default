@@ -2,7 +2,7 @@ import React from 'react';
 import './css/style.css';
 
 // Components
-import HomePage from './features/home-page/'
+import HomePage from "./features/home-page";
 import LoginPage from "./features/login-page";
 import PostsPage from "./features/posts-page";
 import RegisterPage from "./features/register-page";
